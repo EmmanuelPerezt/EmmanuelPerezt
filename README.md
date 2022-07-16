@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **react react native angular**
 
-- ⚡ Fun fact **Learn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

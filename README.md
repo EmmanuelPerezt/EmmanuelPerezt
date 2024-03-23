@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Perez</h1>
 <h3 align="center">A passionate software developer from Mexico</h3>
+<h3 align="center">Current focus on backend Development</h3>
 
 
 
-- 🌱 I’m currently learning **node js, react, php**
+- 🌱 I’m currently learning **node js, SpringBoot, php**
 
 
 <h3 align="left">Connect with me:</h3>

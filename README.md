@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Perez </h1>
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXA1ejY4ODNoYm90c2Zwemx3OWh4MW12Nnpmc3Y2bDRkcGJtcXU0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif" width="230">
-<h3 align="center">A passionate software developer from Mexico</h3>
-<h3 align="center">Current focus on backend Development</h3>
+<h3 align="left">from Mexico <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd24zOHc2b2NobWUzc2pvZDMwNWJsNXl6aXdvN3Q1czlzbHB4bDFsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2WqXrjOccqtQSJCiz5/giphy.gif" width="80"></h3>
+<h3 align="left">Current focus on backend Development</h3>
 
 
 

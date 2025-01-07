@@ -10,10 +10,10 @@
 const Emma = {
   
   role: 'backend development',
-  code: ['Javascript','Java', 'Python'],
+  code: ['Java','Javascript', 'Python'],
   cloud: ['Azure', 'Firebase', 'AWS'],
   database: ['MySql', 'PostgreSql', 'Sqlite', 'MongoDb', 'Redis', 'Firestore'],
-  tools: ['Node', 'Spring', 'Raspberry', 'Esp32', 'Mikrotik']
+  tools: ['Spring', 'Node', 'Raspberry', 'Esp32', 'Mikrotik']
 }
 ```
 

@@ -13,7 +13,7 @@ const Emma = {
   code: ['Java','Javascript', 'Python'],
   cloud: ['Azure', 'Firebase', 'AWS'],
   database: ['MySql', 'PostgreSql', 'Sqlite', 'MongoDb', 'Redis', 'Firestore'],
-  tools: ['Spring', 'Node', 'Raspberry', 'Esp32', 'Mikrotik']
+  tools: ['Spring', 'Node', 'Docker', 'Raspberry', 'Esp32', 'Mikrotik']
 }
 ```
 
